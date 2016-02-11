@@ -6,14 +6,11 @@
   
   <body>
     <table border="1px"
-      <thead>
         <tr>
           <th>Famous Monster</th>
           <th>Birth Year</th>
         </tr>
-      </thead>
-      
-      <tbody>
+    
         <tr>
           <td>king Kong</td>
           <td>1933</td>
@@ -28,7 +25,6 @@
           <td>Bride of Frankenstein</td>
           <td>1935</td>
         </tr>
-      </tbody>  
     </table>  
   </body>
 </html>  
